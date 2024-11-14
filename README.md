@@ -1,6 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-### NAME:S MOHAMED AHSAN
-### REGNO:212223240089
+### NAME : S MOHAMED AHSAN
+### REGNO : 212223240089
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
